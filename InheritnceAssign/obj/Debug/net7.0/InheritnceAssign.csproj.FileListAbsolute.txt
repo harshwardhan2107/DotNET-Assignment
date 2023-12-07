@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\bin\Debug\net7.0\InheritnceAssign.exe
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\bin\Debug\net7.0\InheritnceAssign.deps.json
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\bin\Debug\net7.0\InheritnceAssign.runtimeconfig.json
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\bin\Debug\net7.0\InheritnceAssign.dll
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\bin\Debug\net7.0\InheritnceAssign.pdb
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.AssemblyInfo.cs
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.dll
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\refint\InheritnceAssign.dll
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.pdb
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\InheritnceAssign.genruntimeconfig.cache
+C:\Users\dac\Desktop\.NET_B1\106\InheritnceAssign\obj\Debug\net7.0\ref\InheritnceAssign.dll

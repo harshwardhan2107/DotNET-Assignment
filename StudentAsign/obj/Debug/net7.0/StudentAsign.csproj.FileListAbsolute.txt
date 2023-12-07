@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\bin\Debug\net7.0\StudentAsign.exe
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\bin\Debug\net7.0\StudentAsign.deps.json
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\bin\Debug\net7.0\StudentAsign.runtimeconfig.json
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\bin\Debug\net7.0\StudentAsign.dll
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\bin\Debug\net7.0\StudentAsign.pdb
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.AssemblyInfo.cs
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.dll
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\refint\StudentAsign.dll
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.pdb
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\StudentAsign.genruntimeconfig.cache
+C:\Users\dac\Desktop\.NET_B1\106\StudentAsign\obj\Debug\net7.0\ref\StudentAsign.dll

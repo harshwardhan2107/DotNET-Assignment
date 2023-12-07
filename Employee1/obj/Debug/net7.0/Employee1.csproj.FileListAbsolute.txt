@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\bin\Debug\net7.0\Employee1.exe
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\bin\Debug\net7.0\Employee1.deps.json
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\bin\Debug\net7.0\Employee1.runtimeconfig.json
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\bin\Debug\net7.0\Employee1.dll
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\bin\Debug\net7.0\Employee1.pdb
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.AssemblyInfo.cs
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.dll
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\refint\Employee1.dll
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.pdb
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\Employee1.genruntimeconfig.cache
+C:\Users\dac\Desktop\.NET_B1\106\Employee1\obj\Debug\net7.0\ref\Employee1.dll
